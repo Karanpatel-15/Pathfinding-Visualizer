@@ -7,8 +7,8 @@ $(window).on('load', function () {
 
 // var rows = 30
 // var colms = 76
-var rows = 25
-var colms = 50
+// var rows = 25
+// var colms = 50
 
 // console.log("" + w - 1 + "px")
 
